@@ -1,4 +1,8 @@
 
 body{
-    background-color: rgb(8, 0, 17);
+    background-image: url("assets/images/page-background.png");
+}
+
+h1{
+    color: rgb(255, 255, 255);
 }
